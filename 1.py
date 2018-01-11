@@ -1,1 +1,3 @@
-test a = 1
+test a = 2
+
+b = a
